@@ -4,6 +4,10 @@
     margin: 0;
     padding: 0;
 }
+.total{
+    width: 100%;
+    height: 100%;
+}
 .container {
     background-image: url(../../assets/background.jpg);
     background-size: cover;
@@ -12,12 +16,17 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    position: fixed;
 }
 
 .container > div {
     width: 50%; /* Garante que cada div ocupe metade do espaço disponível */
+   
 }
+
+.h1{
+    font-size: 200px;
+}
+
 
 img {
     max-width: 80%; /* Garante que a imagem ocupe todo o espaço disponível dentro de sua div */
@@ -27,12 +36,12 @@ img {
 
 .h1 {
     font-size: 4em;
-    color: white;
+    color: #F68C2A;
     text-align: center; /* Centraliza o texto dentro da div */
 }
 
 .h2 {
     font-size: 2em;
-    color: white;
+    color: #F68C2A;
     text-align: center; /* Centraliza o texto dentro da div */
 }
