@@ -1,8 +1,12 @@
 https://projeto-portifolio-fi9w.vercel.app/
-
-
-
-
+Nome do Projeto:Portifolio-SingTalk - Disciplina [Front-end framewerks] - Professor [Savio]
+Colaboradores:
+Gabriel dos Santos:https://github.com/Gabriel3090
+Gabriel Pereira:
+Julia Vitória:
+Dickson Freitas:
+Almir Francisco:
+Alyson Medeiros:
 
 
 # React + Vite
@@ -13,3 +17,6 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este projeto foi desenvolvido como parte da disciplina [Front-end framewerks]
+ministrada pelo [Professor Savio]."
+
