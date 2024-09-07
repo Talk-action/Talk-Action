@@ -16,10 +16,11 @@ Colaboradores:
  
  -Alyson Medeiros:
 
- Construido por
-My portfolio  which features some of my github project
+Construido por
+ 
+Meu portfólio que apresenta alguns dos meus projetos no github
 
-This project was built using these technologies.
+Este projeto foi construído usando essas tecnologias.
 
 React.js
 
