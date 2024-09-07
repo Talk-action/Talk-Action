@@ -1,11 +1,19 @@
 https://projeto-portifolio-fi9w.vercel.app/
+
 Nome do Projeto:Portifolio-SingTalk - Disciplina [Front-end framewerks] - Professor [Savio]
+
 Colaboradores:
+
  -Gabriel dos Santos:https://github.com/Gabriel3090
+ 
  -Gabriel Pereira:
+ 
  -Julia Vitória:
+ 
  -Dickson Freitas:
+ 
  -Almir Francisco:
+ 
  -Alyson Medeiros:
 
 
