@@ -16,6 +16,22 @@ Colaboradores:
  
  -Alyson Medeiros:
 
+ Construido por
+My portfolio  which features some of my github project
+
+This project was built using these technologies.
+
+React.js
+
+Node.js
+
+CSS3
+
+VsCode
+
+Vite
+
+
 
 # React + Vite
 
