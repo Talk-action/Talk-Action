@@ -1,26 +1,28 @@
-# https://projeto-portifolio-fi9w.vercel.app/
+# Projeto:Portifolio-SingTalk 
 
-Nome do Projeto:Portifolio-SingTalk - Disciplina [Front-end framewerks] - Professor [Savio] - Instituto:UNINASSAU
+- Disciplina [Front-end framewerks] - Professor [Savio] - Instituto:UNINASSAU
 
-Colaboradores:
+# https://projeto-portifolio-1jgh.vercel.app/
+
+
+
+# Colaboradores:
 
  -Gabriel dos Santos:https://github.com/Gabriel3090
  
  -Gabriel Pereira:https://github.com/Drymer-gabriel
  
- -Julia Vitória:
+ -Julia Vitória:https://github.com/Julia-vfs
  
- -Dickson Freitas:
+ -Dickson Freitas:https://github.com/Dickfreitas
  
- -Almir Francisco:
+ -Almir Francisco:https://github.com/almirjunior12
  
- -Alyson Medeiros:
+ -Alyson Medeiros:https://github.com/AlysonMLL
 
-Construido por
- 
-Meu portfólio que apresenta alguns dos meus projetos no github
+ -Rafael:https://github.com/Rafael9450
 
-Este projeto foi construído usando essas tecnologias.
+#Construido por
 
 React.js
 
@@ -31,6 +33,8 @@ CSS3
 VsCode
 
 Vite
+
+vercel
 
 
 
