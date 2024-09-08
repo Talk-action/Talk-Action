@@ -45,3 +45,36 @@ img {
     color: #F68C2A;
     text-align: center; /* Centraliza o texto dentro da div */
 }
+
+
+@media screen and (max-width:600px) {
+    .container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100vw;
+        height: 70vh;
+    }
+    .containerImg{
+        width: 20vw;
+        display: block;
+        align-items: center;
+        justify-content: center;
+        margin-right: 150px;
+    }
+    .img{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 400px;
+        width: 100vw;
+    }
+    .h1{
+        font-size: 45px;
+    }
+
+    .h2{
+        font-size: 20px;
+    }
+}

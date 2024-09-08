@@ -1,19 +1,24 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import About from './pages/About';
 import styles from './styles/AppStyles.module.css';
-import NavBar from './components/NavBar';
+import Content from './pages/ContentPrototipo';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+
 
 const App = () => {
+
   return (
     <div>
-      <main className={styles.content}>
         <Routes>
           <Route path="/" element={<Home/>} />
           <Route path="/about" element={<About/>} />
+          <Route path="/content" element={<Content/>} />
+
         </Routes>
-      </main>
     </div>
   );
 };

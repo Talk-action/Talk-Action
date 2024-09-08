@@ -3,6 +3,7 @@ import photo1 from '../assets/photo1.png'
 import photo2 from '../assets/photo2.png'
 import TypingEffect from '../components/TypingEffect '
 import About from './About'
+import Content from './ContentPrototipo'
 
 
 const Home = () => {
@@ -10,8 +11,8 @@ const Home = () => {
     return(
         <div className={style.total} >
             <section className={style.container}>
-                <div>
-                    <img src={photo1}></img>
+                <div className={style.containerImg}>
+                    <img src={photo1} className={style.img}/>
                 </div>
                 <div>
                     <h1 className={style.h1}>
@@ -25,6 +26,10 @@ const Home = () => {
 
             <section>
                 <About/>
+            </section>
+
+            <section>
+                <Content/>
             </section>
         
         </div>

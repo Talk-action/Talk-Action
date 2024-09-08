@@ -20,11 +20,12 @@ const About = () => {
                     <li><strong>Comunidade:</strong> Conecte-se com outros aprendizes e profissionais para compartilhar experiências e esclarecer dúvidas.</li>
                 </ul>
             </div>
-
+            
+           
             
         </div>
-            <div>
-                    <img src={photo2}/>
+             <div className={style.containerImg}>
+                    <img src={photo2} className={style.img}/>
             </div>
         </div>
 

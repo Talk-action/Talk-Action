@@ -1,10 +1,5 @@
-/* styles/AppStyle.module.css */
-
 *{
-    box-sizing: border-box;
     margin: 0;
     padding: 0;
-}
-.content {
-    flex: 1; /* Permite que o conteúdo cresça para preencher o espaço disponível */
+    box-sizing: border-box;
 }
