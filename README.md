@@ -4,6 +4,7 @@
 
 # https://projeto-portifolio-1jgh.vercel.app/
 
+![Captura de tela 2024-09-08 130638](https://github.com/user-attachments/assets/2016d158-593f-4d15-bc4b-9329383c27fe)
 
 
 # Colaboradores:
