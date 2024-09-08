@@ -6,7 +6,7 @@ Colaboradores:
 
  -Gabriel dos Santos:https://github.com/Gabriel3090
  
- -Gabriel Pereira:
+ -Gabriel Pereira:https://github.com/Drymer-gabriel
  
  -Julia Vitória:
  
