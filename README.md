@@ -1,6 +1,6 @@
 # Projeto:Portifolio-SingTalk 
 
-- Disciplina [Front-end framewerks] - Professor [Savio] - Instituto:UNINASSAU
+- Disciplina [FRONT-END FRAMEWORK] - Professor [Savio] - Instituto:UNINASSAU
 
 # https://projeto-portifolio-1jgh.vercel.app/
 
