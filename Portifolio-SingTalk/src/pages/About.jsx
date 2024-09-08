@@ -7,7 +7,7 @@ const About = () => {
 
     return(
         <div className={style.container}>
-            <div >
+            <div className={style.title}>
                 <h1 className={style.h1}>Quem Somos</h1>
                 <p className={style.p}><strong>Sing-Talk</strong>  é um aplicativo inovador projetado para tornar o aprendizado da Língua Brasileira de Sinais (Libras) acessível e envolvente para todos. Com uma interface intuitiva e recursos interativos, nosso aplicativo oferece uma abordagem prática e eficiente para aprender sinais básicos, frases úteis e a cultura surda.</p>
 

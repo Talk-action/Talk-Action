@@ -4,6 +4,7 @@
     display: flex;
     justify-content: space-between;
     /* background-color: #E5D6A0; */
+    overflow-x: auto;
 }
 .ul{
     /* margin-top: 10px; */
@@ -25,11 +26,12 @@
     text-decoration: none;
 }
 
-@media screen and (max-width:700px) {
+@media screen and (max-width:600px) {
     .container{
         height: 1vh;
         /* margin-top: 20px; */
         margin-left: 20px;
+        overflow-x: auto;
     }
 
     .ul{

@@ -24,12 +24,16 @@ const Home = () => {
                 </div>
             </section>
 
-            <section>
+            <section className={style.containerDesc}>
                 <About/>
             </section>
 
-            <section>
+            <section className={style.containerFotos}>
                 <Content/>
+            </section>
+
+            <section>
+                
             </section>
         
         </div>
