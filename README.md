@@ -25,17 +25,17 @@ vercel
 
 # Colaboradores:
 
- -Gabriel dos Santos:https://github.com/Gabriel3090(Produziu o README)
+ -Gabriel dos Santos:https://github.com/Gabriel3090 (Produziu o README)
  
- -Gabriel Pereira:https://github.com/Drymer-gabriel(Colaborou com a Pesquisa)
+ -Gabriel Pereira:https://github.com/Drymer-gabriel (Colaborou com a Pesquisa)
  
- -Julia Vitória:https://github.com/Julia-vfs(Colaborou com a engenharia de requisitos)
+ -Julia Vitória:https://github.com/Julia-vfs (Colaborou com a engenharia de requisitos)
  
- -Dickson Freitas:https://github.com/Dickfreitas(Produziu o código)
+ -Dickson Freitas:https://github.com/Dickfreitas (Produziu o código)
  
- -Almir Francisco:https://github.com/almirjunior12(Colaborou com o Design)
+ -Almir Francisco:https://github.com/almirjunior12 (Colaborou com o Design)
  
- -Alyson Medeiros:https://github.com/AlysonMLL(Colaborou com o Design)
+ -Alyson Medeiros:https://github.com/AlysonMLL (Colaborou com o Design)
 
- -Rafael:https://github.com/Rafael9450(Colaborou com seu github)
+ -Rafael:https://github.com/Rafael9450 (Colaborou com seu github)
 
