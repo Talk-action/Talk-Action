@@ -17,6 +17,10 @@ Node.js
 
 CSS3
 
+Javascipt
+
+Html5
+
 VsCode
 
 Vite
