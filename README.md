@@ -21,7 +21,7 @@ CSS3
 
 Javascipt
 
-Html5
+HTML5
 
 VsCode
 
