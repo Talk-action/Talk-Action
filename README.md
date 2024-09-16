@@ -37,7 +37,7 @@ vercel
  
  -Julia Vitória:https://github.com/Julia-vfs (Colaborou com a engenharia de requisitos)
  
- -Dickson Freitas:https://github.com/Dickfreitas (Produziu o código)
+ -Dickson Freitas:https://github.com/Dickfreitas (Produziu o código do projeto)
  
  -Almir Francisco:https://github.com/almirjunior12 (Colaborou com o Design)
  
