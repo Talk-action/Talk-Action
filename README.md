@@ -6,7 +6,7 @@
 
 ![Captura de tela 2024-09-08 130638](https://github.com/user-attachments/assets/2016d158-593f-4d15-bc4b-9329383c27fe)
 
-#Sobre o Projeto
+# Sobre o Projeto
 Sing-Talk é um aplicativo inovador projetado para tornar o aprendizado da Língua Brasileira de Sinais (Libras) acessível e envolvente para todos. Com uma interface intuitiva e recursos interativos, nosso aplicativo oferece uma abordagem prática e eficiente para aprender sinais básicos, frases úteis e a cultura surda.
 
 # Construido por
