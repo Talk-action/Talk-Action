@@ -42,7 +42,5 @@ vercel
  -Almir Francisco: https://github.com/almirjunior12 (Colaborou com o Design)
  
  -Alyson Medeiros: https://github.com/AlysonMLL (Colaborou com o Design)
-
- -Rafael: https://github.com/Rafael9450 (Colaborou com seu github)
  
  -Julio Cesar: https://github.com/jullio007?tab=repositories (Colaborou com Github)
