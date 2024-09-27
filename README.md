@@ -31,7 +31,7 @@ vercel
 
 # Colaboradores:
 
- -Gabriel dos Santos: https://github.com/Gabriel3090 (Produziu o README)
+ -Gabriel dos Santos: https://github.com/Gabriel3090 (Produziu o README e editou o codigo)
  
  -Gabriel Pereira: https://github.com/Drymer-gabriel (Colaborou com a Pesquisa)
  
