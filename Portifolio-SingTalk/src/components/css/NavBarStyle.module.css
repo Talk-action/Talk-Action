@@ -1,13 +1,19 @@
+.titulo{
+    margin-top: 10px;
+}
+
+
 .container{
     width: 100vw;
     height: 8vh;
     display: flex;
     justify-content: space-between;
-    /* background-color: #E5D6A0; */
+    background-color:rgb(251, 223, 213);
     overflow-x: auto;
 }
+
 .ul{
-    /* margin-top: 10px; */
+    margin-top: 20px; 
     display: flex;
     list-style: none;
     width: 40vw;
@@ -16,26 +22,29 @@
 
 .li{
     width: 10vw;
-    /* padding: 10; */
+    padding: 10;
     font-size: 20px;
     margin-left: 10px;
+  
     
 }
 
 .link{
     text-decoration: none;
+    
+    
 }
 
 @media screen and (max-width:600px) {
     .container{
         height: 1vh;
-        /* margin-top: 20px; */
+        margin-top: 20px;
         margin-left: 20px;
         overflow-x: auto;
     }
 
     .ul{
-        /* margin-top: 10px; */
+        margin-top: 10px;
         display: flex;
         list-style: none;
         align-items: center;
