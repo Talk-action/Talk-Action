@@ -3,7 +3,7 @@ import style from './css/NavBarStyle.module.css'
 const NavBar = () =>{
     return(
         <div className={style.container}>
-            <div className={style.tituo}>
+            <div className={style.titulo}>
                 <h1><strong>Sing-Talk</strong></h1>
             </div>
             <div>   
