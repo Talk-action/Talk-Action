@@ -11,21 +11,23 @@
     color: black;
 }
 .containerPerson{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    /* background-color: red; */
+    border: 1px solid #BEBEBE;  
+    padding: 15px;           
+    margin: 10px 0;         
+    border-radius: 5px;    
+    background-color: #BEBEBE; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+}
+
+.person h2 {
+    margin: 0 0 10px;  /* Margem para o título */
+}
+
+.person p {
+    margin: 0;         /* Margem zero para o parágrafo */
 }
 
 
-.img{
-    background-color: gray;
-    width: 100px;
-    height: 40px;
-    padding: 50px;
-    border-radius: 50px;
-
-}
 
 @media screen and (max-width:700px) {
     .container{
@@ -43,6 +45,6 @@
         align-items: center;
         justify-content: center;
         width: 50vw;
-      
+    
     }
 }
