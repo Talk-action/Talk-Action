@@ -11,15 +11,15 @@ const Home = () => {
     return(
         <div className={style.total} >
             <section className={style.container}>
-                <div className={style.containerImg}>
+                <div className={style.containerimg}>
                     <img src={photo1} className={style.img}/>
                 </div>
                 <div>
                     <h1 className={style.h1}>
-                    <TypingEffect text='Sing-Talk' speed='260' pause='2200'/>
+                    <TypingEffect text='Talk Action' speed='260' pause='2200'/>
                     </h1>
                     <h2 className={style.h2}>
-                    <TypingEffect text='Libras nunca ficou tao fácil' speed='120' pause='1700'/>
+                    <TypingEffect text='Libras nunca ficou tão fácil' speed='120' pause='1700'/>
                     </h2>
                 </div>
             </section>
