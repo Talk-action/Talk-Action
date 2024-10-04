@@ -3,6 +3,8 @@
     {
         "id" : "1",
         "nome" : "Dickson Freitas",
+        "funcao": "Função: Produziu o código do projeto",
+        "link" : "https://github.com/Dickfreitas",
         "photo" : "1"
     },
 
@@ -10,13 +12,17 @@
     {
         "id" : "2",
         "nome" : "Gabriel",
+        "funcao": "Função: Produziu o README e editou o codigo",
+        "link" : "https://github.com/Gabriel3090",
         "photo" : "2"
     },
 
     
     {
         "id" : "3",
-        "nome" : "Gabriel P",
+        "nome" : "Gabriel Pereira",
+        "funcao": "Função: Colaborou com a Pesquisa",
+        "link" : "https://github.com/Drymer-gabriel",
         "photo" : "3"
     },
 
@@ -24,6 +30,8 @@
     {
         "id" : "4",
         "nome" : "Alyson",
+        "funcao": "Função: Colaborou com o Design",
+        "link" : "https://github.com/AlysonMLL",
         "photo" : "4"
     },
 
@@ -31,6 +39,8 @@
     {
         "id" : "5",
         "nome" : "Almir Junior",
+        "funcao": "Funçao: Colaborou com o Design",
+        "link" : "https://github.com/almirjunior12",
         "photo" : "5"
     },
 
@@ -38,17 +48,16 @@
     {
         "id" : "6",
         "nome" : "Julia",
+        "funcao": "Função: Colaborou com a engenharia de requisitos",
+        "link" : "https://github.com/Julia-vfs ",
         "photo" : "6"
     },
 
     {
         "id" : "7",
         "nome" : "Julio Cesar",
+        "funcao": "Função: Colaborou com Github ",
+        "link" : "https://github.com/jullio007?tab=repositories",
         "photo" : "7"
-    },
-    {
-        "id" : "8",
-        "nome" : "Gabriel H",
-        "photo" : "8"
     }
 ]
