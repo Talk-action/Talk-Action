@@ -4,7 +4,7 @@ const NavBar = () =>{
     return(
         <div className={style.container}>
             <div className={style.titulo}>
-                <h1><strong>Sing-Talk</strong></h1>
+                <h1><strong>Talk Action</strong></h1>
             </div>
             <div>   
                 <nav className={style.navbar}>
@@ -22,9 +22,9 @@ const NavBar = () =>{
                     </ul>
                 </nav>
             </div>
-           
+        
         </div>
-     
+    
     )
 }
 
