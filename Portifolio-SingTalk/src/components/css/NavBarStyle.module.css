@@ -8,7 +8,7 @@
     height: 8vh;
     display: flex;
     justify-content: space-between;
-    background-color:rgb(251, 223, 213);
+    background-color:#1E90FF;
     overflow-x: auto;
 }
 
@@ -25,13 +25,13 @@
     padding: 10;
     font-size: 20px;
     margin-left: 10px;
-  
+    
     
 }
 
 .link{
     text-decoration: none;
-    
+    color: black;
     
 }
 
