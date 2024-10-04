@@ -8,8 +8,12 @@ const About = () => {
     return(
         <div className={style.container}>
             <div className={style.title}>
+                <h2>Informações</h2>
+                <h3>Instituição:UNINASSAU-PAULISTA</h3>
+                <h3>Disciplina: Front-end Frameworks</h3>
+                <h3>Professor Dr. Sávio Silva de Almeida</h3>
                 <h1 className={style.h1}>Quem Somos</h1>
-                <p className={style.p}><strong>Sing-Talk</strong>  é um aplicativo inovador projetado para tornar o aprendizado da Língua Brasileira de Sinais (Libras) acessível e envolvente para todos. Com uma interface intuitiva e recursos interativos, nosso aplicativo oferece uma abordagem prática e eficiente para aprender sinais básicos, frases úteis e a cultura surda.</p>
+                <p className={style.p}><strong>Talk Action</strong>  é um aplicativo inovador projetado para tornar o aprendizado da Língua Brasileira de Sinais (Libras) acessível e envolvente para todos. Com uma interface intuitiva e recursos interativos, nosso aplicativo oferece uma abordagem prática e eficiente para aprender sinais básicos, frases úteis e a cultura surda.</p>
 
                 <div>
 
@@ -21,10 +25,10 @@ const About = () => {
                 </ul>
             </div>
             
-           
+        
             
         </div>
-             <div className={style.containerImg}>
+            <div className={style.containerImg}>
                     <img src={photo2} className={style.img}/>
             </div>
         </div>
