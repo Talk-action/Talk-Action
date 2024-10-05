@@ -12,11 +12,11 @@ const About = () => {
                 <h3>Instituição:UNINASSAU-PAULISTA</h3>
                 <h3>Disciplina: Front-end Frameworks</h3>
                 <h3>Professor Dr. Sávio Silva de Almeida</h3>
+                <h4><strong>Site:</strong><a href="https://talk-action-app.vercel.app/" target='_blank'>Talk Action</a></h4>
+                <h4><strong>Design:</strong><a href="https://www.behance.net/gallery/209497177/TalkAction">Behance</a></h4>
                 <h1 className={style.h1}>Quem Somos</h1>
                 <p className={style.p}><strong>Talk Action</strong>  é um aplicativo inovador projetado para tornar o aprendizado da Língua Brasileira de Sinais (Libras) acessível e envolvente para todos. Com uma interface intuitiva e recursos interativos, nosso aplicativo oferece uma abordagem prática e eficiente para aprender sinais básicos, frases úteis e a cultura surda.</p>
-
                 <div>
-
                 <p className={style.title} >Recursos Principais</p>
                 <ul className={style.ul}>
                     <li><strong>Práticas e Testes:</strong> Teste seus conhecimentos com exercícios práticos e quizzes.</li>
