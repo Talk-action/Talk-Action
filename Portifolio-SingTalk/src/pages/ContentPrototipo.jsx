@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import pc from '../assets/computador.png';
 import cllr from '../assets/cllr.png';
-import tv from '../assets/tv.png';
 import style from './css/ContentStyle.module.css'
 import Alunos from '../components/AlunosComp';
 const Content = () => {
