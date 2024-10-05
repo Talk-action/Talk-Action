@@ -17,7 +17,7 @@
 }
 .img{
 
-    width: 23vw;
+    width: 40vw;
 }
 .res{
     width: 20vw;
@@ -34,16 +34,16 @@
 
 
 @media screen and (max-width:800px) {
-    /* .top{
+    .top{
         height: 1000px;
-    } */
+    } 
     .container{
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        /* margin-bottom: 100px; */
-        /* margin-top: 50px; */
+        margin-bottom: 100px;
+        margin-top: 50px;
         
     }
 
@@ -65,8 +65,8 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        /* margin-bottom: 100px; */
-        /* margin-top: 50px; */
+        margin-bottom: 100px; 
+        margin-top: 50px; 
         
     }
 }
