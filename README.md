@@ -4,10 +4,6 @@
 
 # https://talkaction-porti.vercel.app/
 
-
-
-# https://www.behance.net/gallery/209497177/TalkAction
-
 # Sobre o Projeto
 Talk-Action é um aplicativo inovador projetado para tornar o aprendizado da Língua Brasileira de Sinais (Libras) acessível e envolvente para todos. Com uma interface intuitiva e recursos interativos, nosso aplicativo oferece uma abordagem prática e eficiente para aprender sinais básicos, frases úteis e a cultura surda.
 
