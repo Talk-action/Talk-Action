@@ -3,7 +3,7 @@
 - Disciplina [FRONT-END FRAMEWORK] - Professor [Dr.Sávio Silva de Almeida] - Instituto: UNINASSAU
 
 # Link do Portifolio
-https://talkaction-porti.vercel.app/
+https://talkaction-portifolio.vercel.app/
 
 # Link do Video do Site
 https://youtu.be/h55HMB8LUMw?si=p4wBmC7QI5Dw6BmX
